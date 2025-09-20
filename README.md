@@ -4,6 +4,9 @@
 
 Me chamo Fernanda Ribeiro. Sou técnica em informática e estou no 4º semestre da graduação em Sistemas para Internet no Senac São Paulo.  
 Sou apaixonada por tecnologia e busco constantemente aprimorar minhas habilidades em desenvolvimento full-stack, compartilhando meu conhecimento e me conectando com a comunidade através do meu perfil no LinkedIn. 
+Para ver meus projetos, clique em repósitorios, junto com os códigos, você irá encontrar uma descrição personalizada sobre cada um (Readme). 
+Espero que goste, costumo aprimorar o portfólio e sempre buscar evolução! 
+Abração.
 
 ---
 
