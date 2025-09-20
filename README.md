@@ -46,5 +46,5 @@ Abração.
 ### 🌐 Contato  
 
 📌 [LinkedIn](https://www.linkedin.com/in/fernandaosribeiro1/)  
-📌 [Portfólio](https://github.com/fernandaosribeiro1)  
+📌 [Portfólio](https://fernandaosribeiro1.github.io/portf-lio_UX/)  
 📌 [Gmail](mailto:fernanda.osribeiro1@gmail.com)  
