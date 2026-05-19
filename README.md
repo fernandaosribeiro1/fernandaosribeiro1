@@ -5,7 +5,6 @@ Front-End Developer | React • TypeScript • Accessibility • UX • Mobile E
 Building scalable and accessible web applications with React, Next.js and modern Front-End architecture.  
 Currently focused on Cloud Computing, Mobile Development and User Experience.
 
----
 
 <div align="center">
 
@@ -26,18 +25,18 @@ Currently focused on Cloud Computing, Mobile Development and User Experience.
 <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>  
 
 </div>
----
+
 
 ## 🚀 About Me
 
-💻 Systems for Internet student at Senac São Paulo  
-☁️ Studying for Microsoft AZ-900 certification  
+🎓 Graduated in Systems for Internet at Senac São Paulo  
+💻 Technical Degree in Information Technology (IT)  
+☁️ Microsoft Certified: Azure Fundamentals (AZ-900)  
 📱 Focused on Front-End, Mobile and UX Engineering  
 ♿ Passionate about Accessibility and Inclusive Interfaces  
 🏗️ Building scalable and modern applications with React and TypeScript  
-🌎 Learning GraphQL, Cloud Computing and Modern Front-End Architecture  
+🌎 GraphQL, Cloud Computing and Modern Front-End Architecture  
 🚀 Interested in Design Systems, Performance and User Experience
-
 ---
 
 ## 📫 Contact
