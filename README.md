@@ -5,6 +5,7 @@ Front-End Developer | React • TypeScript • Accessibility • UX • Mobile E
 Building scalable and accessible web applications with React, Next.js and modern Front-End architecture.  
 Currently focused on Cloud Computing, Mobile Development and User Experience.
 
+---
 
 <div align="center">
 
@@ -26,19 +27,56 @@ Currently focused on Cloud Computing, Mobile Development and User Experience.
 
 </div>
 
+---
 
 ## 🚀 About Me
-
----
 
 🎓 Graduated in Systems for Internet at Senac São Paulo  
 💻 Technical Degree in Information Technology (IT)  
 ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)  
-📱 Focused on Front-End, Mobile and UX Engineering  
-♿ Passionate about Accessibility and Inclusive Interfaces  
-🏗️ Building scalable and modern applications with React and TypeScript  
-🌎 GraphQL, Cloud Computing and Modern Front-End Architecture  
-🚀 Interested in Design Systems, Performance and User Experience
+⚛️ Front-End Developer focused on React, TypeScript and Modern Web Applications  
+📱 Interested in Mobile Development, WebView Experiences and Cross-Platform Solutions  
+♿ Passionate about Accessibility (WCAG 2.1), Inclusive Interfaces and User Experience  
+🏗️ Building scalable, responsive and component-based applications with modern Front-End architecture  
+🌎 Currently improving skills in GraphQL, Cloud Computing, Performance and Design Systems  
+🚀 Interested in Software Engineering, Product Development and High-Performance Technology Teams
+
+---
+
+## 🛠️ Current Focus
+
+- React & Next.js Architecture
+- TypeScript Best Practices
+- Accessibility (WCAG 2.1)
+- GraphQL APIs
+- Mobile Experiences with React Native
+- Design Systems & Component Libraries
+- Front-End Performance Optimization
+- Cloud Fundamentals with Azure & AWS
+- Scalable and Responsive Interfaces
+- Modern UI/UX Engineering
+
+---
+
+## 📌 Featured Projects
+
+🚧 Currently building projects focused on:
+
+- Modern Front-End Architecture
+- Accessibility and Inclusive Interfaces
+- Mobile & Web Experiences
+- GraphQL Integration
+- Performance and Responsive Design
+- Scalable React Applications
+- Design Systems and Reusable Components
+
+---
+
+## 🌎 Languages
+
+- Portuguese — Native
+- English — Professional improvement focused on technology and business communication
+
 ---
 
 ## 📫 Contact
