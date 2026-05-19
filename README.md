@@ -41,43 +41,6 @@ Currently focused on Cloud Computing, Mobile Development and User Experience.
 🌎 Currently improving skills in GraphQL, Cloud Computing, Performance and Design Systems  
 🚀 Interested in Software Engineering, Product Development and High-Performance Technology Teams
 
----
-
-## 🛠️ Current Focus
-
-- React & Next.js Architecture
-- TypeScript Best Practices
-- Accessibility (WCAG 2.1)
-- GraphQL APIs
-- Mobile Experiences with React Native
-- Design Systems & Component Libraries
-- Front-End Performance Optimization
-- Cloud Fundamentals with Azure & AWS
-- Scalable and Responsive Interfaces
-- Modern UI/UX Engineering
-
----
-
-## 📌 Featured Projects
-
-🚧 Currently building projects focused on:
-
-- Modern Front-End Architecture
-- Accessibility and Inclusive Interfaces
-- Mobile & Web Experiences
-- GraphQL Integration
-- Performance and Responsive Design
-- Scalable React Applications
-- Design Systems and Reusable Components
-
----
-
-## 🌎 Languages
-
-- Portuguese — Native
-- English — Professional improvement focused on technology and business communication
-
----
 
 ## 📫 Contact
 
