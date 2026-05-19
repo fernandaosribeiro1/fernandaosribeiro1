@@ -29,6 +29,8 @@ Currently focused on Cloud Computing, Mobile Development and User Experience.
 
 ## 🚀 About Me
 
+---
+
 🎓 Graduated in Systems for Internet at Senac São Paulo  
 💻 Technical Degree in Information Technology (IT)  
 ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)  
